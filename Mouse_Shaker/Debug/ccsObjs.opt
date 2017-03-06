@@ -1,0 +1,1 @@
+"./led.obj" "../lnk_msp430g2553.cmd" -l"configPkg/linker.cmd" -l"libc.a" 
